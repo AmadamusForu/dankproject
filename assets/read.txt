@@ -1,0 +1,1 @@
+This is a folder for the assets used in the project. If you are going to make a logo for this project, please add it here in your pull request.
